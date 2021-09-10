@@ -13,4 +13,10 @@
  - 🥇 Ranked ACM Asia-Topi Regional Online Competition 2019
  - 🥈 Honourable ACM Asia-Topi Regional Onsite Competition 2020
  - 🥉 Accomplished Google Code Jam Qualification Round 2021
+ 
+ 🛠️ Skills
+
+Languages
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=<C++>&logoColor=<white>)
+
 
