@@ -50,6 +50,8 @@ Cross Platform Development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansi007&layout=compact)](https://github.com/Ansi007/github-readme-stats)
 
+[![AnnsShahbaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ansi007)](https://github.com/Ansi007/github-readme-stats)
+
 
 
 
