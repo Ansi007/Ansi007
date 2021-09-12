@@ -46,7 +46,7 @@ Cross Platform Development
 
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)  
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ansi007)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ansi007&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansi007&layout=compact)](https://github.com/Ansi007/github-readme-stats)
 
