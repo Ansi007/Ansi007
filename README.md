@@ -12,6 +12,7 @@
  - 🥇 Ranked ACM Asia-Topi Regional Online Competition 2019
  - 🥈 Honourable ACM Asia-Topi Regional Onsite Competition 2020
  - 🥉 Accomplished Google Code Jam Qualification Round 2021
+ - 🎮 Unity Junior Programmer
  
 ### 🛠️ Skills
 
