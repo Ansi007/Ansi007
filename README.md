@@ -1,5 +1,7 @@
 # Hi there! 👋
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ansi007)
+
 ### 🚀 About Me
 - 👋 I’m Anns, Anns Shahbaz. I am Pursuing my Bachelors in Software Engineering and will graduate in 2023.
 - 👀 I’m interested in Programming, gaming and designing. I do not only want to play games but to create them.
