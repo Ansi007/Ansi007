@@ -14,6 +14,8 @@
  - 🥇 Ranked ACM Asia-Topi Regional Online Competition 2019
  - 🥈 Honourable ACM Asia-Topi Regional Onsite Competition 2020
  - 🥉 Accomplished Google Code Jam Qualification Round 2021
+ - 🥇 M-Labs Fellowship Graduate 2021
+ - 🥈 Best Team Effort in Mindstorm Rookie Game Jam 2021
  - 🎮 Unity Junior Programmer
  
 ### 🛠️ Skills
