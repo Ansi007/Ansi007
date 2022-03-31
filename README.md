@@ -10,7 +10,9 @@
 - 👯 I’m looking to collaborate on Game Development and Design. 
 - 💬 Ask me about anything!
 
-### 🏅 Achievements
+### 🏅 Achievement
+ - 🥇 Winner of 'VisioSpark On Spot Programming Competition 2022'
+ - 🥇 Bronze Medal in ACM ICPC Asia-Topi Regional Onsiete Competition 2021
  - 🥇 Ranked ACM Asia-Topi Regional Online Competition 2019
  - 🥈 Honourable ACM Asia-Topi Regional Onsite Competition 2020
  - 🥉 Accomplished Google Code Jam Qualification Round 2021
