@@ -64,7 +64,7 @@ Cross Platform Development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansi007&layout=compact)](https://github.com/Ansi007/github-readme-stats)
 
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/> 
+<img align='center'  height="70" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/> 
 
 ![Snake animation](https://github.com/Ansi007/Ansi007/blob/output/github-contribution-grid-snake.svg)
 
