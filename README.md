@@ -5,7 +5,7 @@
 ### 🚀 About Me
 - 👋 I’m Anns, Anns Shahbaz. I am Pursuing my Bachelors in Software Engineering and will graduate in 2023.
 - 👀 I’m interested in Game Programming, and Designing. I do not only want to play games but create them.
-- 🔭 I’m currently mainly working on PlayCanvas and Unity. Apart from that I've in Android Studio, .NET Framework.
+- 🔭 I’m mainly working on PlayCanvas and Unity. Apart from that I am familiar with Android Studio, .NET Framework, Windows GUI Applications, ML and CV.
 - 🌱 I’m currently learning Game Development. 
 - 👯 I’m looking to collaborate on any programming related work.
 - 💬 Ask me about anything!
