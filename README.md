@@ -1,12 +1,9 @@
 # Hi there! 👋
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ansi007)
-
 ### 🚀 About Me
-- 👋 I’m Anns, Anns Shahbaz. I am Pursuing my Bachelors in Software Engineering and will graduate in 2023.
+- 👋 I’m Anns Shahbaz. I am a Software Engineer.
 - 👀 I’m interested in Game Programming, and Designing. I do not only want to play games but create them.
-- 🔭 I’m mainly working on PlayCanvas and Unity. Apart from that I am familiar with Android Studio, .NET Framework, Windows GUI Applications, ML and CV.
-- 🌱 I’m currently learning Game Development. 
+- 🔭 I’m working on Unity.
 - 👯 I’m looking to collaborate on any programming related work.
 - 💬 Ask me about anything!
 
@@ -61,11 +58,4 @@ Cross Platform Development
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ansi007&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ansi007&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansi007&layout=compact)](https://github.com/Ansi007/github-readme-stats)
-
-<img align='center'  height="70" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/> 
-
-![Snake animation](https://github.com/Ansi007/Ansi007/blob/output/github-contribution-grid-snake.svg)
-
 
